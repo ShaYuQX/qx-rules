@@ -1,0 +1,7 @@
+# 淘宝 / 闪送外卖直连规则
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,alicdn.com,DIRECT
+DOMAIN-SUFFIX,mmstat.com,DIRECT
+DOMAIN-SUFFIX,etao.com,DIRECT
+DOMAIN-SUFFIX,shansong.cn,DIRECT
